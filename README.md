@@ -16,7 +16,7 @@ It is recommended you allocate at least 4GB of RAM to docker:
 Here is a screenshot showing the relevant setting in the Help Manual
 ![image](https://github.com/frappe/frappe_docker/blob/main/docs/images/Docker%20Manual%20Screenshot%20-%20Resources%20section.png)
 Here is a screenshot showing the settings in Docker Desktop on Mac
-![images](images/Docker%20Desktop%20Screenshot%20-%20Resources%20section.png)
+![images](https://github.com/frappe/frappe_docker/blob/main/docs/images/Docker%20Desktop%20Screenshot%20-%20Resources%20section.png)
 
 ## Bootstrap Containers for development
 
