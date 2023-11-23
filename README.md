@@ -72,6 +72,8 @@ Run the following commands in the terminal inside the container. You might need 
 
 Notes: 
 - Prior to doing the following, make sure the user is `frappe@id`.
+- ![docker user](https://github.com/Bhavan23/frappe-docker-instalation-guide/assets/122002510/75eae2a5-4284-4eb2-a941-f258de157d54)
+
 
 ```shell
 bench init --skip-redis-config-generation frappe-bench
